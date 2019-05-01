@@ -25,7 +25,7 @@ __Tools/Methods:__
 
 There was a lot of concern around the destination landing pages surrounding the products and how they were being displayed. Some of marketing and the majority of the development team felt we should break them out of the section they currently reside in and give them their own "space". We wanted them to stand out. This was a high-priority for our customer service reps as the most repeated questions they got were all related to the products and the differences between them.
 
-I wireframed several layout versions and put them to vote amongst the team where we made our assumptions. I then developed and performed an A/B multivariant test in several different markets: San Diego, Chicago, NYC, and Orlando. The results varied widely from market to market and the end result put the work in the back-log to be revisited at another time.
+I wireframed several layout versions and put them to vote amongst the team where we made our assumptions. I then developed and performed an A/B multivariant test in several different markets: San Diego, Chicago, NYC, and Orlando. The results varied widely from market to market enough to put the work in the back-log to be revisited at another time.
 
 __Tools/Methods:__
 - [usertesting.com](https://www.usertesting.com/)
