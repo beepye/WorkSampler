@@ -9,7 +9,7 @@ categories: web design
 
 ![flow image]({{ site.url }}/WorkSampler/assets/images/pass-lookup-flow.png)
 
-When the company decided to upgrade it's mobile app to version 2 I was a key player in creating and testing the user flows and UI layout assumptions. I used Sketch to layout the initial ideas around user flows and used it for the mock-ups that were coupled with Invision for testing. I also testing around button/cta placement. This was a first for me with mobile UI design.
+When the company decided to upgrade it's mobile app to version 2 I was a key player in creating and testing the user flows and UI layout assumptions. I used Sketch to layout the initial ideas around user flows and used it for the mock-ups that were coupled with Invision for testing. I also tested around button/cta placement. This was a first for me with mobile UI design.
 
 __Tools:__
 - [usertesting.com](https://www.usertesting.com/)
