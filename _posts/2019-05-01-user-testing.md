@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "User Testing"
+date:   2019-05-01
+categories: web design
+---
+
+### [GO Card Mobile App V2](https://play.google.com/store/apps/details?id=smartdestinations.gocitycard)
+
+![flow image](/images/pass-lookup-flow.png)
+
+When the company decided to upgrade it's mobile app to version 2 I was a key player in creating and testing the user flows and UI layout assumptions. I used Sketch to layout the initial ideas around user flows and used it for the mock-ups that were coupled with Invision for testing. I also testing around button/cta placement. This was a first for me with mobile UI design.
+
+__Tools:__
+- [usertesting.com](https://www.usertesting.com/)
+- [Invision App](https://www.invisionapp.com/)
+- [Sketch](https://www.sketch.com/)
+- Face to face - went to South Station and talked to people
+
+---
+
+### [Multi-Product Landing Page(s)](https://www.smartdestinations.com/boston-attractions-and-tours/_d_Bos-p1.html?pass=Bos_Prod_Go)
+
+![multiproduct redesign](/images/multiproduct-redesign.png)
+
+There was a lot of concern around the destination landing pages surrounding the products and how they were being displayed. Some of marketing and the majority of the development team felt we should break them out of the section they currently reside in and give them their own "space". We wanted them to stand out. This was a high-priority for our customer service reps as the most repeated questions they got were all related to the products and the differences between them.
+
+I wireframed a few versions and put them to vote amongst the team. The winner I developed and performed an A/B multivariant test in several different markets: San Diego and Chicago. We ran the tests for 6wks before checking the stats and at first it seemed the redesign was going to be an overwhelming winner. 3wks more and the numbers leveled out. Chicago experienced a higher click-through rate and an increase in conversion while San Diego was somewhat the opposite.
+
+Unfortunately in the end the CMO ruled against the change and we kept it as it currently is now.
+
+__Tools:__
+- [usertesting.com](https://www.usertesting.com/)
+- [Invision App](https://www.invisionapp.com/)
+- [Sketch](https://www.sketch.com/)
