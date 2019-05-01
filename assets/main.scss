@@ -3,6 +3,8 @@
 
 @import "{{ site.theme }}";
 
+// Forced overrides
+
 hr { margin: 50px 0; }
 blockquote {
 	margin: 50px 0;
@@ -16,7 +18,9 @@ blockquote {
 
 .site-title {
 	font-size: 18px;
-	font-weight: 500;
+	font-weight: 400;
 }
 
 .post-title { font-size: 36px; }
+
+.u-email { display: none; }

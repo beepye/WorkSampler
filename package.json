@@ -1,11 +1,11 @@
 {
-  "name": "unamed-blog",
+  "name": "Web Design Work",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A jekyll blog used for displaying some professional web design work I've done",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Brian Pye",
   "license": "ISC"
 }
