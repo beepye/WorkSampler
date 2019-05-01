@@ -5,7 +5,7 @@ date:   2019-05-01
 categories: web design
 ---
 
-For quick reference to a somewhat eclectic mix of design work you can check out my [Dribbble profile](https://dribbble.com/beepye). It contains everything from logo work, UI wireframes for components, to t-shirt designs.
+> For quick reference to a somewhat eclectic mix of design work you can check out my [Dribbble profile](https://dribbble.com/beepye). It contains everything from logo work, UI wireframes for components, to t-shirt designs.
 
 ### [Smart Destinations Testimonial Carousel](https://www.smartdestinations.com/boston-attractions-and-tours/_ptd_Bos-p1.html)
 
