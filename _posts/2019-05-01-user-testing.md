@@ -5,6 +5,10 @@ date:   2019-05-01
 categories: web design
 ---
 
+During my time at Constant Contact I was able to participate with the UX research team fairly often; I sat in on live user testing, I listened to video and call feedback about new or current features, learned a tad about personas, and gained a solid understanding of the importance of user feedback for product improvement.
+
+At Smart Destinations I was able to take some of what I had learned and implement it. The following are 2 examples:
+
 ### [GO Card Mobile App V2](https://play.google.com/store/apps/details?id=smartdestinations.gocitycard)
 
 ![flow image]({{ site.url }}/WorkSampler/assets/images/pass-lookup-flow.png)
