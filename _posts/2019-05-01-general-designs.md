@@ -7,7 +7,7 @@ categories: web design
 
 > For quick reference to a somewhat eclectic mix of design work you can check out my [Dribbble profile](https://dribbble.com/beepye). It contains everything from logo work, UI wireframes for components, to t-shirt designs.
 
-I've only worked for one company that had designing as part of the expectations, the rest were strictly front end code related. Anything else design oriented I have is freelance. I could add a lot more to this but time was "of the essence".
+I've only worked for one company that had designing as part of the expectations, the rest were strictly front end code related. Anything else design oriented I have is freelance. I could add a lot more to this but I felt time was getting short.
 
 ### [Smart Destinations Testimonial Carousel](https://www.smartdestinations.com/boston-attractions-and-tours/_ptd_Bos-p1.html)
 
