@@ -7,7 +7,7 @@ categories: web design
 
 ### [First In Tree Services](http://firstintreeservices.com/)
 
-![First In Tree Services](/images/first-in.png)
+![First In Tree Services]({{ site.url }}/WorkSampler/assets/images/first-in.png)
 
 I did a complete rebrand for this tree services company in Virgina. All of our meetings were virtual (GoToMeeting) making constant communication key. The website I threw in as a bonus for them as they were running a Wix template and it was pretty ugly (_really_ ugly). The forms don't work so please forgive me for that, my hands are tied until the owner takes care of some things on his end.
 
