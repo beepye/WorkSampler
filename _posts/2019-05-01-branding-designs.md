@@ -5,6 +5,8 @@ date:   2019-05-01
 categories: web design
 ---
 
+Branding isn't something I've done much of at all. I think I'm mostly intersted in it because of the logo designing and color scheming - I definitely enjoy those parts!
+
 ### [First In Tree Services](http://firstintreeservices.com/)
 
 ![First In Tree Services]({{ site.url }}/WorkSampler/assets/images/first-in.png)
