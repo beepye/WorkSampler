@@ -33,6 +33,6 @@ We had videos made by a 3rd party to help clarify what our passes are/what we do
 
 ### [Darby Road Home](http://www.darbyroad.com/)
 
-![Darby Road Home Lookbook]({{ site.url }}/WorkSampler/assets/images/images/drh.png)
+![Darby Road Home Lookbook]({{ site.url }}/WorkSampler/assets/images/drh.png)
 
 This was a quick design and dev job for a local furniture boutique in Waltham. I was limited to working within the SquareSpace template's flexibility and the owners requests (which I didn't always agree with but y'know how that goes).
