@@ -31,4 +31,3 @@ __Tools/Methods:__
 - [usertesting.com](https://www.usertesting.com/)
 - [Invision App](https://www.invisionapp.com/)
 - [Sketch](https://www.sketch.com/)
-- Face to face - went to South Station and talked to people
