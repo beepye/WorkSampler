@@ -12,6 +12,8 @@ blockquote {
 	background-color: #eee; 
 }
 
+.site-nav { display: none; }
+
 .rss-subscribe,
 .post-list-heading,
 .post-meta { display: none; }
@@ -29,3 +31,31 @@ blockquote {
 	background-color: #fff;
 	border-top: none;
 }
+
+.post-list {
+	display: flex;
+	justify-content: center;
+	flex-flow: wrap;
+
+	li { 
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+		padding: 12.5px;
+
+		&:before {
+			content: "";
+			display: block;
+			width: 50px;
+			height: 50px;
+			margin-bottom: 12.5px;
+			border-radius: 50%;
+			background-color: #eee;
+			border: 1px solid #ccc;
+		}
+	}
+}
+
+@media (min-width: 600px) {
+	.post-list { justify-content: space-between; }
+} 
