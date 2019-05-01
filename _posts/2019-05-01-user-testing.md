@@ -11,7 +11,7 @@ categories: web design
 
 When the company decided to upgrade it's mobile app to version 2 I was a key player in creating and testing the user flows and UI layout assumptions. I used Sketch to layout the initial ideas around user flows and used it for the mock-ups that were coupled with Invision for testing. I also tested around button/cta placement. This was a first for me with mobile UI design.
 
-__Tools:__
+__Tools/Methods:__
 - [usertesting.com](https://www.usertesting.com/)
 - [Invision App](https://www.invisionapp.com/)
 - [Sketch](https://www.sketch.com/)
@@ -29,7 +29,8 @@ I wireframed a few versions and put them to vote amongst the team. The winner I 
 
 Unfortunately in the end the CMO ruled against the change and we kept it as it currently is now.
 
-__Tools:__
+__Tools/Methods:__
 - [usertesting.com](https://www.usertesting.com/)
 - [Invision App](https://www.invisionapp.com/)
 - [Sketch](https://www.sketch.com/)
+- Face to face - went to South Station and talked to people
