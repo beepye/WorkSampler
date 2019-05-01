@@ -7,6 +7,8 @@ categories: web design
 
 > For quick reference to a somewhat eclectic mix of design work you can check out my [Dribbble profile](https://dribbble.com/beepye). It contains everything from logo work, UI wireframes for components, to t-shirt designs.
 
+I've only worked for one company that had designing as part of the expectations - everything else is freelance. I could add a lot more to this but time was "of the essence".
+
 ### [Smart Destinations Testimonial Carousel](https://www.smartdestinations.com/boston-attractions-and-tours/_ptd_Bos-p1.html)
 
 ![testimonial carousel]({{ site.url }}/WorkSampler/assets/images/carousel.png)
