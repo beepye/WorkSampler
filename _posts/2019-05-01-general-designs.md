@@ -9,7 +9,7 @@ For quick reference to a somewhat eclectic mix of design work you can check out 
 
 ### [Smart Destinations Testimonial Carousel](https://www.smartdestinations.com/boston-attractions-and-tours/_ptd_Bos-p1.html)
 
-![testimonial carousel]({{ site.url }}/images/carousel.png)
+![testimonial carousel]({{ site.url }}/assets/images/carousel.png)
 
 The CMO wanted to display testimonials on destination and product pages. I designed and developed a carousel component and we initially launched it under the "Add A Review" tab on the product pages. We eventually put the carousel on the destination pages under the How It Works section (it is no longer there now).
 
