@@ -22,5 +22,10 @@ blockquote {
 }
 
 .post-title { font-size: 36px; }
-
 .u-email { display: none; }
+.site-header { 
+	position: sticky;
+	top: 0;
+	background-color: #fff;
+	border-top: none;
+}
