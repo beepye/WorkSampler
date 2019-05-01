@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Branding"
-date:   2019-05-01
+date:   2019-04-29
 categories: web design
 ---
 
